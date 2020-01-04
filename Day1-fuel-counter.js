@@ -1,4 +1,4 @@
-const FuelCounterUpper = massArray => {
+const fuelCounterUpper = massArray => {
   let total = 0;
   let subtotal = 0;
 
